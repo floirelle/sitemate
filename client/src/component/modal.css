@@ -1,0 +1,17 @@
+.modal{
+    position: fixed;
+    margin: auto;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-body{
+    margin: auto;
+    background: white;
+    padding: 5em;
+}
